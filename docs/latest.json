@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Implementazione OTA",
-    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.0.1.bin",
-    "sha256":  "65344589eb33dee226aea131f52ed8ccfa9a3caca19ee74dc7949e90c56e1932",
-    "latest":  "2.0.1"
+    "changelog":  "No changes",
+    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.0.bin",
+    "sha256":  "fe80f21e31d8533c8b422b4d98f1d86d349222cf284ef5a87a21b297ebcf3c5a",
+    "latest":  "2.1.1"
 }
