@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "OTA working correctly",
-    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.1.bin",
-    "sha256":  "a2470841c862785642837a99a09954eb3fa2bb70d6f01cab638230c995c8faff",
-    "latest":  "2.1.1"
+    "changelog":  "Fixed recording file recognition",
+    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.2.bin",
+    "sha256":  "d093d48753871582fdbac95fb8177b2758e71fe0745e5130737abc8c7ff94c62",
+    "latest":  "2.1.2"
 }
