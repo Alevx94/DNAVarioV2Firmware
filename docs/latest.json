@@ -1,6 +1,6 @@
 ﻿{
     "changelog":  "Fixed recording file recognition",
-    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.2.bin",
-    "sha256":  "d093d48753871582fdbac95fb8177b2758e71fe0745e5130737abc8c7ff94c62",
-    "latest":  "2.1.2"
+    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.2.2.bin",
+    "sha256":  "7585b9d765b26c39e95b7ececce2b8f3a587b90f4381a128242b63f3eda386e2",
+    "latest":  "2.1.2.2"
 }
