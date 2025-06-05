@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Added volume control by use of the app",
-    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.4.bin",
-    "sha256":  "f8bf839885866e4af669e280725cefd59eb11571cdda99eb14aa44376c539422",
-    "latest":  "2.1.4"
+    "changelog":  "Fully Implemented IGC recording",
+    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.5.bin",
+    "sha256":  "699b681ff385d17f8b46bce5a4898029bd8514df1949177394e07b8f2e93561c",
+    "latest":  "2.1.5"
 }
