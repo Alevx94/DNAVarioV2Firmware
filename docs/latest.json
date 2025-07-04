@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Fully Implemented IGC recording",
-    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.5.bin",
-    "sha256":  "699b681ff385d17f8b46bce5a4898029bd8514df1949177394e07b8f2e93561c",
-    "latest":  "2.1.5"
+    "changelog":  "Improved variometer sampling logic",
+    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.6.bin",
+    "sha256":  "b21cf9e5348e3f1d80b34a5627c1356913b7e0c85524cd40773b3dea9fa3aa27",
+    "latest":  "2.1.6"
 }
