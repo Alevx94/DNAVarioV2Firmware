@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "Added variometer filter setting",
-    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.7.bin",
-    "sha256":  "8cec79df4c5cb6e4d0258d0d2efc3d121f7092f88d757cf3ee80d28e59d1941d",
-    "latest":  "2.1.7"
+    "changelog":  "Fixed audio delay",
+    "url":  "https://alevx94.github.io/DNAVarioV2Firmware/DNAVarioV2_v2.1.8.bin",
+    "sha256":  "efa12fcc7ce091789b15cf1da61bb5cede807c1f9fdb24f123081c81c4c617f8",
+    "latest":  "2.1.8"
 }
